@@ -23,9 +23,9 @@ Una aplicación de escritorio interactiva y ligera diseñada para practicar y do
 Al no requerir librerías de terceros (no es necesario hacer `pip install`), ejecutar el proyecto es extremadamente sencillo:
 
 1. Clona este repositorio o descarga el archivo principal.
-2. Asegúrate de tener Python instalado en tu sistema.
-3. Abre tu terminal y navega hasta el directorio del proyecto.
+2. Debemos tener python instalado.
+3. Abrimos la terminal y navegamos hasta el directorio del proyecto.
 4. Ejecuta el siguiente comando:
 
    ```bash
-   python nombre_del_archivo.py
+   python false_friends.py
