@@ -20,7 +20,7 @@ Una aplicación de escritorio interactiva y ligera diseñada para practicar y do
 
 ## 📦 Instalación y ejecución
 
-Al no requerir librerías de terceros (no es necesario hacer `pip install`), ejecutar el proyecto es extremadamente sencillo:
+Al no requerir librerías de terceros (no es necesario hacer `pip install`), para ejecutarlo:
 
 1. Clona este repositorio o descarga el archivo principal.
 2. Debemos tener python instalado.
